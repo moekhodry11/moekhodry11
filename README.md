@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://github.com/moekhodry11" target="blank"><img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="moekhodry11" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohamed-khodry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-khodry" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@mohamedkhodry9744" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mohamedkhodry9744" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@mohamedkhodry9744" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mohamedkhodary11" height="30" width="40" /></a>
 </p>
 
 - Email: moe.khodry@gmail.com
